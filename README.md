@@ -1,2 +1,2 @@
 # Adidas_EDA
-Adidas sales data eda
+Project in which I analyze sales data of Adidas products, regions, and distribution methods
